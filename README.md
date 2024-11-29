@@ -31,12 +31,8 @@ git clone https://github.com/username/Appetizers.git
 ```
 ## 📸 Screenshots
 
-![Home Tab](https://github.com/user-attachments/assets/ab4f4d92-c930-4049-a1e4-b90a62c1b293)
-![Details Screen](https://github.com/user-attachments/assets/27e8f93b-a5bd-4bd8-bae2-8c7ac952c5ee)
-![Account Tab](https://github.com/user-attachments/assets/1a5c7794-9fce-4dcd-90b7-01c742499abd)
-![Orders Tab - Empty](https://github.com/user-attachments/assets/5f4d54d0-11e6-49ad-83a1-0fbde5b11ae6)
-![Orders Tab](https://github.com/user-attachments/assets/16aec4cf-9a30-41d3-a260-4bb65a52e0d4)
-![Orders Tab - Delete](https://github.com/user-attachments/assets/c0eb2d27-6226-496f-9ca4-c1f74ddde8d9)
+![Home Tab](https://github.com/user-attachments/assets/ab4f4d92-c930-4049-a1e4-b90a62c1b293) ![Details Screen](https://github.com/user-attachments/assets/27e8f93b-a5bd-4bd8-bae2-8c7ac952c5ee) ![Account Tab](https://github.com/user-attachments/assets/1a5c7794-9fce-4dcd-90b7-01c742499abd)
+![Orders Tab - Empty](https://github.com/user-attachments/assets/5f4d54d0-11e6-49ad-83a1-0fbde5b11ae6) ![Orders Tab](https://github.com/user-attachments/assets/16aec4cf-9a30-41d3-a260-4bb65a52e0d4) ![Orders Tab - Delete](https://github.com/user-attachments/assets/c0eb2d27-6226-496f-9ca4-c1f74ddde8d9)
 
 
 
