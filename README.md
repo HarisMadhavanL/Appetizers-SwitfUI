@@ -18,6 +18,7 @@ Appetizers is an iOS app built with Swift that showcases a list of delicious app
 ## 🛠 Technology Stack
 
 * Language: Swift
+* Framework: SwiftUI
 * Architecture: MVVM (Model-View-ViewModel)
 * Storage: App Storage
 * State Management: Environment Objects
