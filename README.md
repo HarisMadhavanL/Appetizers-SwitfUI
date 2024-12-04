@@ -1,4 +1,4 @@
-## 🍽 Appetizers
+# 🍽 Appetizers
 
 Appetizers is an iOS app built with Swift that showcases a list of delicious appetizers fetched from an API. The app allows users to explore appetizer details, add items to their orders, and view their account information. It follows the MVVM architectural pattern and utilizes modern Swift features like App Storage and Environment Objects.
 
